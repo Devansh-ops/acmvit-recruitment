@@ -9,6 +9,12 @@ Your response should contain the original plaintext message, the key/shift used 
 
 # Solution
 
+plaintext : silencelaysteadilyagainstthewoodandstoneofhillhouseandwhateverwalkedtherewalkedalone
+
+shift/key : 21
+
+## How-to
+
 Monoalphabetic ciphers are considered very weak because of some inherent flaws. The fact that two characters are always in pair, plus the inherent letter frequency in english language, both can be used to crack monoalphabetic code relatively easily.
 
 ## Types of 'monoalphabetic' cipher
