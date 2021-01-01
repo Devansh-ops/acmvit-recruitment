@@ -1,5 +1,5 @@
-# acmvit-recruitment
-Projects for the recruitment into Association of Computing Machinery, VIT Vellore
+# Description
+Submission by Devansh Sehgal for ACM Research Recruitments
 
 # Question for Cyber Security
 Decrypt the given ciphertext encrypted using a monoalphabetic cipher:
@@ -26,7 +26,7 @@ For try one, let us suppose the cipher used is a caeser cipher, then, there are 
 
 For that, first, we create a list of alphabets, alp. Then we create a dictionary containing the alphabets as keys and values as their shifted value. Note that the alphabets are shifted in reverse for a key for decryption.
 
-Then, we create a string with the alphabets substituted as per the caeser cipher and key.
+Then, we create a string with the alphabets substituted as per the shift.
 
 We check if the string makes sense. If the key does make sense, you have the decrypted text. For checking, we can also see if the decrypted text contains the common english words like 'the' or 'is'.
 
